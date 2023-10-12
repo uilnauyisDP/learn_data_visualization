@@ -1,0 +1,14 @@
+{
+  "name": "0d267f3923c2198d",
+  "main": "0d267f3923c2198d@389.js",
+  "version": "389.0.0",
+  "homepage": "https://observablehq.com/d/0d267f3923c2198d",
+  "author": {
+    "name": "Siyuan Liu's Workspace",
+    "url": "https://observablehq.com/@siyuan-liu-ws"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4 - 5"
+  }
+}
